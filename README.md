@@ -16,7 +16,7 @@
 
     for linux, bash;
 
-        $ pip install numpy pandas scikit-learn matplotlib pyforest joblib
+    $ pip install numpy pandas scikit-learn matplotlib pyforest joblib
 
 ## How to use
 
